@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Aymen
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋&fontSize=50)
+### My name is Aymen
 #### I am a full stack application developer
-![I am a full stack application developer](imgUrl)
+![I am a full stack application developer](90917461_2460902614158937_3060279801739739136_n.jpg)
 
 As a problem solver who loves facing challenges in my work, I'm excited to be at the deployment phase of my career as a full stack application developer. I'm passionate and ambitious about my work, and love to be on a team that questions possibilities.  
 I've accomplished Web / Mobile / Desktop projects as a freelancer for over two years.
@@ -19,4 +20,6 @@ Skills: VUE JS / Spring Boot / Python / Quasar
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aymenBox)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymenBox&show_icons=true)  
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer&text=&fontSize=20)
 
